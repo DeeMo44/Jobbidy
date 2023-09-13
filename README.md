@@ -27,6 +27,6 @@ Jobbidy is a React Native job search app that allows users to search for job lis
 ## Contact
 
 - Email: demario326@gmail.com
-- Linkedin: [linkedin.com/in/demario-ward](linkedin.com/in/demario-ward)
+- Linkedin: linkedin.com/in/demario-ward
 
 Feel free to reach out if you have any questions or feedback!
