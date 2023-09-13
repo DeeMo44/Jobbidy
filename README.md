@@ -5,9 +5,9 @@
 Jobbidy is a React Native job search app that allows users to search for job listings using the Jsearch API from RapidAPI.com. This app serves as a showcase of my React Native development skills and was developed with the guidance of JavaScript Mastery on YouTube.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Jobbidy_media/Jobbidy-1.png" alt="Image 1" width="30%">
-  <img src="Jobbidy_media/Jobbidy-2.png" alt="Image 2" width="30%">
-  <img src="Jobbidy_media/Jobbidy-3.png" alt="Image 3" width="30%">
+  <img src="Jobbidy_media/Jobbidy-1.jpg" alt="Image 1" width="30%">
+  <img src="Jobbidy_media/Jobbidy-2.jpg" alt="Image 2" width="30%">
+  <img src="Jobbidy_media/Jobbidy-3.jpg" alt="Image 3" width="30%">
 </div>
 
 ## Features
